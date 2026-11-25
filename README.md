@@ -6,6 +6,8 @@ I have more than 20 years of experience in business operations, including vendor
 
 This portfolio documents independent applied projects that explore practical business problems, operational controls, reporting and process improvement.
 
+[Notes Across Borders — Applied Projects](https://notesacrossborders.wordpress.com/applied-projects/)
+
 ## Applied Projects
 
 ### ProgramOps Studio — Operational Readiness & Exception Management
